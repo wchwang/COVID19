@@ -1,1 +1,3 @@
 # Identification of SARS-CoV-2 induced pathways reveal drug repurposing strategies
+## Abstract
+The global outbreak of SARS-CoV-2 is having significant impact on human health, necessitating the rapid development of new therapies for treatment and prevention of COVID-19 infection and related symptoms. The repurposing of approved drugs from other therapeutic areas is one of the most practical routes for responding to this demand. Here, we present the identification of 200 approved drugs, appropriate for repurposing against COVID-19. We constructed a SARS-CoV-2-induced protein (SIP) network, based on disease signatures defined by COVID-19 multi-omic datasets.
